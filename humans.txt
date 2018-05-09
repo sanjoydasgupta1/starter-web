@@ -4,7 +4,7 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
-
+    Added Sanjoy Dasgupta to humans.txt
 # THANKS
 
     <name>

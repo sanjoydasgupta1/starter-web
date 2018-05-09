@@ -1,3 +1,4 @@
 # robotstxt.org/
+Added Sanjoy Dasgupta to robots.txt
 
 User-agent: *
